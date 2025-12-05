@@ -61,5 +61,12 @@ This portfolio helps recruiters, hiring managers, and collaborators quickly unde
 
 ---
 
-## 📂 Folder Structure  
+
+---
+
+## ⚙️ Installation & Setup  
+
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/vikash-kumar-984/Vikash-Portfolio.git
 
